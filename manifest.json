@@ -1,0 +1,6 @@
+{
+  "name": "sc-footer",
+  "short_name": "sc-footer",
+  "start_url": "/",
+  "display": "standalone"
+}
